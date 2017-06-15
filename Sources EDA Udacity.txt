@@ -1,0 +1,3 @@
+https://rawgit.com/dwolfATL/White-Wine-EDA/master/EDA-whitewine.html
+https://github.com/dwolfATL/White-Wine-EDA
+https://ashic.github.io/udacity-eda/
