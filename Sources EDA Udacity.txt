@@ -1,3 +1,5 @@
 https://rawgit.com/dwolfATL/White-Wine-EDA/master/EDA-whitewine.html
 https://github.com/dwolfATL/White-Wine-EDA
 https://ashic.github.io/udacity-eda/
+http://winkelman.github.io/udacity-dand-eda/
+https://cran.r-project.org/web/packages/corrplot/vignettes/corrplot-intro.htm
